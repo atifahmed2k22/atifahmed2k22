@@ -16,7 +16,7 @@ Tools: Git, VS Code, Docker
 Here are some of the projects I’m proud of:
 
 Number Guessing Game: A fun number guessing game built with Python.
+
 To-Do List Application: A simple to-do list app using Node.js and inquirer for task management.
+
 Dynamic Resume Builder: A dynamic resume builder using HTML, CSS, and TypeScript.
-🙌 Special Thanks
-A big thank you to Sir Faisal Amin, who taught me Python and inspired me to work on these projects. His guidance has been incredibly valuable.
